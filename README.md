@@ -24,3 +24,5 @@ Zygisk管理器:  https://github.com/Dr-TSNG/ZygiskNext
 钱包本地化:  查看本项目的Releases
 
 切换全亮度DC:  查看本项目的Releases
+
+钱包双击打开卡包: 查看本项目的Releases
