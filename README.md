@@ -3,7 +3,8 @@ Make OxygenOS Great Again
 -
 -
 -
--
+-下载镜像地址，推荐使用迅雷下载。
+- https://sourceforge.net/projects/oneplus13flashers/files/
 -
 -
 -
