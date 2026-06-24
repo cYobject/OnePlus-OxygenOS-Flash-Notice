@@ -26,3 +26,9 @@ Zygisk管理器:  https://github.com/Dr-TSNG/ZygiskNext
 切换全亮度DC:  查看本项目的Releases
 
 修复钱包双击打开卡包: 查看本项目的Releases
+
+修复云闪付指纹: 并在/data/adb/tricky_store/target.txt 中添加云闪付包名
+
+https://github.com/KOWX712/PlayIntegrityFix
+
+https://github.com/5ec1cff/TrickyStore
