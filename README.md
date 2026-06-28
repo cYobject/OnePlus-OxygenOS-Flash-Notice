@@ -33,3 +33,5 @@ Zygisk管理器:  https://github.com/Dr-TSNG/ZygiskNext
 https://github.com/KOWX712/PlayIntegrityFix
 
 https://github.com/5ec1cff/TrickyStore
+
+隐藏应用列表:  https://github.com/frknkrc44/HMA-OSS
